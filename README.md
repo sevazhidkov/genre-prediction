@@ -30,7 +30,7 @@ returns genre probabilites vector.
 Features includes LDA topic model of the item descriptions, artists and their genres,
 cost etc.
 
-I focused on extensibility and speed. It's very important things in production Data Science.
+I focused on extensibility and speed. It's very important things in the production Data Science.
 We can easily create a new feature if it's necessary and retrain model.
 Also my code doesn't require any structure changes for creating model.
 
