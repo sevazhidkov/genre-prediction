@@ -94,8 +94,9 @@ Model uses 1860 features generated from each event data. I use one Linear SVC mo
 
 **Rock classification**:
 
-| Accuracy score | 0.83064516129  |
+|   Metric name  |      Value     |
 |----------------|----------------|
+| Accuracy score | 0.83064516129  |
 | F1 score       | 0.886486486486 |
 | ROC AUC        | 0.841179197182 |
 
